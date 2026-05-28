@@ -3,12 +3,14 @@
 A React-based web application that allows users to search for foods and view related recipes using a recipe API.
 
 **Features**
+
 Search for different foods and meals
 Fetches recipe data dynamically using an API
 Displays recipe results based on user input
 user-friendly interface
 
 **Tech Stack**
+
 React.js
 JavaScript
 HTML5
