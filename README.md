@@ -29,6 +29,8 @@ A React-based web application that allows users to search for foods and view rel
 This project was built to practice React development, API integration, component-based architecture, and dynamic data rendering.
 
 
+**Screenshots**
+
 <img width="1891" height="916" alt="image" src="https://github.com/user-attachments/assets/8c8344b9-795c-460d-9a96-6bb43a25e538" />
 
 <img width="1891" height="919" alt="image" src="https://github.com/user-attachments/assets/0ba35c74-35b3-4506-976c-9d391e0fef25" />
