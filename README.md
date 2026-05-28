@@ -31,6 +31,6 @@ This project was built to practice React development, API integration, component
 
 <img width="1891" height="916" alt="image" src="https://github.com/user-attachments/assets/8c8344b9-795c-460d-9a96-6bb43a25e538" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/87414c7a-2b57-4a4f-8514-82a43ae3409b" />
+<img width="3" height="2" alt="image" src="https://github.com/user-attachments/assets/30575440-2647-4f5a-8474-9b25b9b7a29c" />
 
 <img width="1894" height="912" alt="image" src="https://github.com/user-attachments/assets/5c7d3447-68e5-477f-a55f-52aff8d8852f" />
